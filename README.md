@@ -3,8 +3,6 @@
 
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/93025067?v=4&size=64" width="110" height="110" style="border-radius:50%" alt="Karpagamainthan avatar" />
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=31D7FF&center=true&vCenter=true&width=640&lines=Software+Engineer+at+PSG+Software+Technologies;Node.js%2C+MongoDB%2C+Angular%2C+Java;Building+reliable+web+apps+one+API+at+a+time" alt="Typing intro" />
 </a>
